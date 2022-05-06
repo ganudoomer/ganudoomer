@@ -11,7 +11,7 @@ Hello, I'm Sree Ganesh , I am software engineer, highly motivated and extremely 
 * ✉️  You can contact me at [sreeganesh807@gmail.com](mailto:sreeganesh807@gmail.com)
 * 🚀  I'm currently working on [Chesslang](http://Chesslang.com)
 * 🧠  I'm learning Data Structure and Algorithms and System architecture
-* ⚡  secretly obsessed with air-conditioner
+* ⚡  secretly obsessed with Air-conditioners 🤫
 
 <a href="https://www.twitter.com/sreeganesh007" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sreeganesh007?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
