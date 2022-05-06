@@ -4,7 +4,7 @@ Hi 👋 My name is Sree Ganesh
 Software engineer
 -----------------
 
-Hello, I'm Sree Ganesh , I am software engineer, highly motivated and extremally curious.
+Hello, I'm Sree Ganesh , I am software engineer, highly motivated and extremely curious.
 
 * 🌍  I'm based in Calicut
 * 🖥️  See my portfolio at [Sreeganesh](http://sreeganesh.co/)
