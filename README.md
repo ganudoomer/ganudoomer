@@ -9,7 +9,7 @@ Hello, I'm Sree Ganesh , I am software engineer, highly motivated and extremely 
 * 🌍  I'm based in Calicut
 * 🖥️  See my portfolio at [Sreeganesh](http://sreeganesh.co/)
 * ✉️  You can contact me at [sreeganesh807@gmail.com](mailto:sreeganesh807@gmail.com)
-* 🚀  I'm currently working on [Chesslang](http://Chesslang.com)
+* 🚀  I'm currently working on [Daato](https://www.daato.net/)
 * 🧠  I'm learning Data Structure and Algorithms and System architecture
 * ⚡  secretly obsessed with Air-conditioners 🤫
 
